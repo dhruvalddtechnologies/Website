@@ -19,7 +19,7 @@ const ContactDetails: React.FC = () => {
             transition={{ duration: 0.1 }}
             className="absolute inset-0 py-2 md:py-3 lg:py-4 px-6 md:px-8 text-white bg-stone-950 border-none rounded-full"
           >
-            dhruval.ddtechnologies@gmail.com
+            devanshi.ddtechnologies@gmail.com
           </motion.div>
           <motion.div
             variants={{
@@ -29,7 +29,7 @@ const ContactDetails: React.FC = () => {
             transition={{ duration: 0.1, type: "tween", ease: "easeIn" }}
             className="relative rounded-full py-2 md:py-3 lg:py-4 px-6 md:px-8 text-stone-950 bg-stone-200 border-none"
           >
-            dhruval.ddtechnologies@gmail.com
+            devanshi.ddtechnologies@gmail.com
           </motion.div>
         </motion.div>
 
@@ -47,7 +47,7 @@ const ContactDetails: React.FC = () => {
             transition={{ duration: 0.1 }}
             className="absolute inset-0 py-2 md:py-3 lg:py-4 px-6 md:px-8 text-white bg-stone-950 border-none rounded-full"
           >
-            +91 8238818899
+            +91 9134523456
           </motion.div>
           <motion.div
             variants={{
@@ -57,7 +57,7 @@ const ContactDetails: React.FC = () => {
             transition={{ duration: 0.1, type: "tween", ease: "easeIn" }}
             className="relative rounded-full py-2 md:py-3 lg:py-4 px-6 md:px-8 text-stone-950 bg-stone-200 border-none"
           >
-            +91 8238818899
+            +91 9134523456
           </motion.div>
         </motion.div>
       </div>
